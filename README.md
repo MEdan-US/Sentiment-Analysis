@@ -33,11 +33,11 @@ https://github.com/congnghia0609/ntc-scv
 ## Usage
 To use the sentiment analysis system:
 
-1.Run the main script:
+1. Run the main script:
 ```
 python -m streamlit run app.py
 ```
-2.Follow the prompts to input vietnamese sentence.
+2. Follow the prompts to input vietnamese sentence.
 
 ## Acknowledgments
 - Thanks to the original authors of the TextCNN model for their significant contributions to text classification.
