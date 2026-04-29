@@ -38,6 +38,8 @@ To use the sentiment analysis system:
 python -m streamlit run app.py
 ```
 2. Follow the prompts to input vietnamese sentence.
+## Demo
+<img width="1071" height="460" alt="Screenshot 2026-04-29 204900" src="https://github.com/user-attachments/assets/8e4a9ffe-bf5e-4fb7-9497-14ff6dc0c4cc" />
 
 ## Acknowledgments
 - Thanks to the original authors of the TextCNN model for their significant contributions to text classification.
